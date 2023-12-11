@@ -1,4 +1,4 @@
-# LA GUIA MAS RAPIDA DE CSS 2024
+# LA GUIA MÁS RÁPIDA DE CSS 2024
 
 Bienvenidos a esta guía compacta de CSS, creada como una herramienta de ayuda rápida para la comunidad de desarrolladores web. Aquí encontrarás los aspectos esenciales de CSS sin profundizar exageradamente, desde sus bases hasta prácticas comunes. Ideal tanto para principiantes en busca de un repaso eficiente, esta guía busca simplificar y acelerar el aprendizaje en CSS.
 
