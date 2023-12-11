@@ -9,13 +9,12 @@ Bienvenidos a esta guía compacta de CSS, creada como una herramienta de ayuda r
 3. [Mobile First y Responsive Design](#3-mobile-first-y-responsive-design)
 4. [Metodología BEM (Block Element Modifier)](#4-metodología-bem-block-element-modifier)
 5. [Buenas Prácticas](#5-buenas-prácticas)
-6. [Flexbox](#6-flexbox)
-7. [Grid](#7-grid)
-8. [Resetear CSS](#8-resetear-css)
-9. [Box-Sizing: Border-Box](#9-box-sizing-border-box)
-10. [Herramientas Útiles](#10-herramientas-útiles)
-11. [Recursos de Aprendizaje](#11-recursos-de-aprendizaje)
-12. [Práctica](#12-práctica)
+6. [Resetear CSS](#6-resetear-css)
+   1. [Box-Sizing: Border-Box](#61-box-sizing-border-box)
+7. [Flexbox](#7-flexbox)
+8. [Grid](#8-grid)
+9. [Herramientas Útiles para Avanzar](#9-herramientas-útiles-para-avanzar)
+10. [Recursos de Aprendizaje](#10-recursos-de-aprendizaje)
 
 ## 1. Conceptos Básicos de CSS
 
@@ -106,16 +105,16 @@ Ejemplo:
   }
   ```
 
-## 6.1 Box-Sizing: Border-Box
+  ### 6.1 Box-Sizing: Border-Box
 
-- **`box-sizing: border-box`**:
-  - Hace que el ancho y alto de un elemento incluyan el padding y el borde, no solo el contenido.
-- **Por qué se usa**:
-  - Facilita el cálculo de tamaños de elementos, especialmente al diseñar layouts.
-  - Mejora la previsibilidad del tamaño de los elementos al cambiar el padding o el borde.
-- **¿Por qué no es el predeterminado en navegadores?**:
-  - El valor por defecto de `box-sizing` es `content-box` por razones históricas y de compatibilidad con la web antigua.
-  - `content-box` excluye el padding y el borde del ancho y alto del elemento, lo cual era el comportamiento estándar antes de la introducción de `border-box`.
+  - **`box-sizing: border-box`**:
+    - Hace que el ancho y alto de un elemento incluyan el padding y el borde, no solo el contenido.
+  - **Por qué se usa**:
+    - Facilita el cálculo de tamaños de elementos, especialmente al diseñar layouts.
+    - Mejora la previsibilidad del tamaño de los elementos al cambiar el padding o el borde.
+  - **¿Por qué no es el predeterminado en navegadores?**:
+    - El valor por defecto de `box-sizing` es `content-box` por razones históricas y de compatibilidad con la web antigua.
+    - `content-box` excluye el padding y el borde del ancho y alto del elemento, lo cual era el comportamiento estándar antes de la introducción de `border-box`.
 
 ## 7. Flexbox
 
