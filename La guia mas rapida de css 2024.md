@@ -31,7 +31,7 @@ selector {
 }
 ```
 
-- Ejemplo:
+Ejemplo:
 
 ```css
 p {
@@ -44,6 +44,7 @@ p {
 
 - **Mobile First**: Diseña para dispositivos móviles primero y luego expande los estilos para pantallas más grandes.
 - **Media Queries**: Utiliza consultas de medios para aplicar estilos condicionales según el tamaño de la pantalla.
+
   ```css
   @media (min-width: 600px) {
     .clase {
@@ -54,22 +55,24 @@ p {
 
 ## 4. Metodología BEM (Block Element Modifier)
 
-- Facilita el mantenimiento del código CSS y mejora la legibilidad.
+Facilita el mantenimiento del código CSS y mejora la legibilidad.
+
 - **Bloque**: Componente independiente.
 - **Elemento**: Parte de un bloque que no tiene sentido por sí mismo.
 - **Modificador**: Variante o extensión de un bloque o elemento.
-- Ejemplo:
 
-  ```css
-  .bloque {
-  }
+Ejemplo:
 
-  .bloque__elemento {
-  }
+```css
+.bloque {
+}
 
-  .bloque--modificador {
-  }
-  ```
+.bloque__elemento {
+}
+
+.bloque--modificador {
+}
+```
 
 ## 5. Buenas Prácticas
 
@@ -94,6 +97,7 @@ p {
   - Los navegadores tienen estilos predeterminados diferentes, lo que puede llevar a inconsistencias.
   - Un reset ayuda a garantizar que tu diseño se vea igual en todos los navegadores.
 - **Ejemplo de Reset CSS**:
+
   ```css
   * {
     margin: 0;
