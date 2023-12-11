@@ -17,13 +17,13 @@ Bienvenidos a esta guía compacta de CSS, creada como una herramienta de ayuda r
 11. [Recursos de Aprendizaje](#11-recursos-de-aprendizaje)
 12. [Práctica](#12-práctica)
 
-### 1. Conceptos Básicos de CSS
+## 1. Conceptos Básicos de CSS
 
 - **CSS (Cascading Style Sheets)**: Usado para estilizar y dar formato a las páginas web.
 - **Selectores**: Permiten seleccionar los elementos HTML a los que se les aplicará el estilo.
 - **Propiedades y Valores**: Establecen cómo se deben mostrar los elementos seleccionados.
 
-### 2. Estructura de un Archivo CSS
+## 2. Estructura de un Archivo CSS
 
 ```css
 selector {
@@ -40,7 +40,7 @@ p {
 }
 ```
 
-### 3. Mobile First y Responsive Design
+## 3. Mobile First y Responsive Design
 
 - **Mobile First**: Diseña para dispositivos móviles primero y luego expande los estilos para pantallas más grandes.
 - **Media Queries**: Utiliza consultas de medios para aplicar estilos condicionales según el tamaño de la pantalla.
@@ -52,7 +52,7 @@ p {
   }
   ```
 
-### 4. Metodología BEM (Block Element Modifier)
+## 4. Metodología BEM (Block Element Modifier)
 
 - Facilita el mantenimiento del código CSS y mejora la legibilidad.
 - **Bloque**: Componente independiente.
@@ -71,7 +71,7 @@ p {
   }
   ```
 
-### 5. Buenas Prácticas
+## 5. Buenas Prácticas
 
 - **Organización**: Mantén tu CSS bien organizado y dividido en secciones.
 - **Nomenclatura Consistente**: Usa nombres claros y descriptivos.
@@ -87,7 +87,7 @@ p {
 - **Flexbox y Grid**: Para diseños responsivos y flexibles.
 - **Mantenimiento y Escalabilidad**: Escribe CSS pensando en el futuro, facilitando cambios y adiciones.
 
-### 6. Resetear CSS
+## 6. Resetear CSS
 
 - **Resetear CSS**: Elimina los estilos por defecto del navegador para tener un punto de partida consistente.
 - **Por qué se usa**:
@@ -102,7 +102,7 @@ p {
   }
   ```
 
-### 6.1 Box-Sizing: Border-Box
+## 6.1 Box-Sizing: Border-Box
 
 - **`box-sizing: border-box`**:
   - Hace que el ancho y alto de un elemento incluyan el padding y el borde, no solo el contenido.
@@ -113,7 +113,7 @@ p {
   - El valor por defecto de `box-sizing` es `content-box` por razones históricas y de compatibilidad con la web antigua.
   - `content-box` excluye el padding y el borde del ancho y alto del elemento, lo cual era el comportamiento estándar antes de la introducción de `border-box`.
 
-### 7. Flexbox
+## 7. Flexbox
 
 - **Flexbox**: Un modelo de diseño unidimensional que ofrece un control eficiente del espacio interior y la alineación de los elementos en un contenedor.
 - **Uso**:
@@ -130,7 +130,7 @@ p {
 }
 ```
 
-### 8. Grid
+## 8. Grid
 
 - **Grid**: Un sistema de diseño bidimensional que permite manejar filas y columnas.
 - **Uso**:
@@ -147,12 +147,12 @@ p {
 }
 ```
 
-### 9. Herramientas Útiles para avanzar
+## 9. Herramientas Útiles para avanzar
 
 - **Preprocesadores como SASS o LESS**: Permiten variables, mixins, anidación, etc.
 - **Framework CSS como Bootstrap o Tailwind**: Proporcionan componentes preestilizados y sistemas de grid.
 
-### 11. Recursos de Aprendizaje
+## 10. Recursos de Aprendizaje
 
 - Documentación oficial (MDN Web Docs, W3Schools)
 - Tutoriales en línea (Codecademy, freeCodeCamp, mi recomendacion: Youtube)
