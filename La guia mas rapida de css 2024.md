@@ -36,7 +36,6 @@ Bienvenidos a esta guía compacta de CSS, creada como una herramienta de ayuda r
 - **CSS (Cascading Style Sheets)**: Usado para estilizar y dar formato a las páginas web.
 - **Selectores**: Permiten seleccionar los elementos HTML a los que se les aplicará el estilo.
 - **Propiedades y Valores**: Establecen cómo se deben mostrar los elementos seleccionados.
-  Entiendo, aquí tienes una versión más concisa de la sección sobre los selectores en CSS:
 
 ### 2. Estructura de un Archivo
 
