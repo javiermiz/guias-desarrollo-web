@@ -29,15 +29,19 @@
 10. [🔧 Herramientas Útiles](#🔧-10-herramientas-útiles)
 11. [📚 Recursos de Aprendizaje](#📚-11-recursos-de-aprendizaje)
 
-## 🌱 LA BASE
+---
 
-### 🔑 1. Conceptos Básicos
+## 🌱 La Base
+
+### 🔑 1. Conceptos básicos
 
 - **🎨 CSS (Cascading Style Sheets)**: Utilizado para dar estilo y formato a las páginas web. Hace que el contenido HTML sea visualmente atractivo y funcional.
 
 - **🔍 Selectores**: Herramientas clave que permiten seleccionar los elementos HTML a los que se aplicarán estilos específicos. Los selectores determinan exactamente qué partes de tu página recibirán los estilos definidos.
 
 - **📐 Propiedades y Valores**: Son el corazón de los estilos CSS. Las propiedades definen qué aspecto del elemento se va a estilizar, mientras que los valores especifican cómo se va a estilizar esa propiedad. Juntos, forman declaraciones que se aplican a los elementos seleccionados.
+
+---
 
 ### 2. 📝 Estructura de un Archivo
 
@@ -129,6 +133,8 @@ Los selectores de hijo directo aplican estilos a elementos que son hijos directo
 </ul>
 ```
 
+---
+
 ### 🎨 3. Aplicación de Estilos
 
 El CSS puede ser incorporado en una página web de varias maneras, cada una con sus propias ventajas y desventajas. Estos métodos incluyen estilos inline, internos y externos.
@@ -186,6 +192,8 @@ Los estilos externos se definen en archivos CSS separados.
 - **Rendimiento**: Los estilos externos pueden ser almacenados en caché por el navegador, lo que mejora la velocidad de carga en visitas sucesivas.
 - **Especificidad**: Los estilos inline tienen la mayor especificidad, lo que puede sobrescribir otros estilos definidos interna o externamente.
 
+---
+
 ### 📱 4. Responsive y Mobile First
 
 #### 📐 Media Queries
@@ -215,6 +223,8 @@ Las media queries son una herramienta clave en el diseño responsive. Permiten a
 - **Facilidad de Escalabilidad**: Es más sencillo escalar un diseño desde móvil a desktop que al revés, lo que facilita la adaptación a diferentes tamaños de pantalla.
 
 Adoptar un enfoque Mobile First asegura que tu sitio web sea efectivo y accesible para la mayor cantidad de usuarios posible, independientemente del dispositivo que estén utilizando.
+
+---
 
 ## Lo Más Usado Actualmente
 
@@ -258,6 +268,8 @@ Grid es un poderoso sistema de diseño bidimensional en CSS que revoluciona la f
 }
 ```
 
+---
+
 ## Buenas Prácticas
 
 ### 📐 7. Metodología BEM
@@ -286,6 +298,8 @@ BEM, que significa Bloque-Elemento-Modificador, es una metodología de nomenclat
   /* Estilos del modificador */
 }
 ```
+
+---
 
 ### 🔄 8. Normalizar CSS
 
@@ -319,6 +333,8 @@ La propiedad `box-sizing: border-box` en CSS es una configuración esencial para
 - **Razón de su No Predeterminación**:
   - El valor por defecto `content-box` es un remanente histórico que mantiene la compatibilidad con diseños web más antiguos. En `content-box`, el padding y el borde se añaden al ancho y alto total del elemento, lo que puede llevar a confusiones en cálculos de tamaño.
 
+---
+
 ### 👍 9. Buenas Prácticas Extras
 
 Además de las técnicas y metodologías estándar, aquí hay algunas prácticas adicionales que pueden mejorar significativamente la calidad de tu código CSS:
@@ -341,6 +357,8 @@ Además de las técnicas y metodologías estándar, aquí hay algunas prácticas
 
 - **Mantenimiento y Escalabilidad**: Escribe tu CSS pensando en el futuro. Código bien estructurado y documentado facilita las actualizaciones y cambios, además de hacerlo más escalable y manejable a largo plazo.
 
+---
+
 ## Herramientas y Recursos
 
 ### 🔧 10. Herramientas Útiles
@@ -349,6 +367,8 @@ En tu arsenal de desarrollo web, estas herramientas pueden ser de gran ayuda par
 
 - **Preprocesadores como SASS o LESS**: Estas herramientas extienden las capacidades de CSS con características como variables, mixins y anidación, lo que facilita la escritura de estilos más complejos y mantenibles.
 - **Frameworks CSS como Bootstrap o Tailwind**: Ofrecen una amplia gama de componentes preestilizados y sistemas de grid, lo que te permite acelerar el proceso de desarrollo y asegurar la coherencia en el diseño.
+
+---
 
 ### 📚 11. Recursos de Aprendizaje
 
