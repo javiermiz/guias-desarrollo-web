@@ -21,3 +21,7 @@ Este trabajo está licenciado bajo Creative Commons Atribución 4.0 Internaciona
 ## Contacto
 
 Si tienes preguntas o sugerencias, no dudes en contactarme en javiermizarevalo@gmail.com.
+
+---
+
+Esta guia fue redactada con ayuda de ChatGPT4, sin embargo los temas y conceptos han sido modificados por mi para hacerlo mas sencillo de leer.
