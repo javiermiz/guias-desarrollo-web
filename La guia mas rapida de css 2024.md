@@ -2,12 +2,6 @@
 
 Bienvenidos a esta guía compacta de CSS, creada como una herramienta de ayuda rápida para la comunidad de desarrolladores web.
 
-Presupongo que:
-
-- Ya sabes agregar un archivo css a tu pagina
-
-Por supuesto, puedo agregar una sección sobre cómo agregar estilos a una página al índice y reorganizar los elementos existentes. Aquí está el índice actualizado:
-
 ## Índice
 
 1. [Conceptos Básicos de CSS](#1-conceptos-básicos-de-css)
