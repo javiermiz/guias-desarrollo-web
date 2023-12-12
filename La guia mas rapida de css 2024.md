@@ -6,28 +6,28 @@
 
 ### 🌱 La Base
 
-1. [🔑 Conceptos Básicos](#🔑-1-conceptos-básicos)
-2. [📝 Estructura de Archivo CSS](#📝-2-estructura-de-un-archivo)
-   - [🎯 Selectores CSS](#🎯-21-selectores-css)
-3. [🎨 Aplicación de Estilos](#🎨-3-aplicación-de-estilos)
-4. [📱 Responsive y Mobile First](#📱-4-responsive-y-mobile-first)
+1. [🔑 Conceptos Básicos](#--1-conceptos-básicos)
+2. [📝 Estructura de Archivo CSS](#--2-estructura-de-un-archivo)
+   - [🎯 Selectores CSS](#--21-selectores-css)
+3. [🎨 Aplicación de Estilos](#--3-aplicación-de-estilos)
+4. [📱 Responsive y Mobile First](#--4-responsive-y-mobile-first)
 
 ### 🌟 Lo Más Usado Actualmente
 
-5. [🔲 Flexbox](#🔲-5-flexbox)
-6. [🔳 Grid](#🔳-6-grid)
+5. [🔲 Flexbox](#--5-flexbox)
+6. [🔳 Grid](#--6-grid)
 
 ### ✨ Buenas Prácticas
 
-7. [📐 Metodología BEM](#📐-7-metodología-bem)
-8. [🔄 Normalizar CSS](#🔄-8-normalizar-css)
-   - [📦 Box-Sizing: Border-Box](#📦-81-box-sizing-border-box)
-9. [👍 Buenas Prácticas Extras](#👍-9-buenas-prácticas-extras)
+7. [📐 Metodología BEM](#--7-metodología-bem)
+8. [🔄 Normalizar CSS](#--8-normalizar-css)
+   - [📦 Box-Sizing: Border-Box](#--81-box-sizing-border-box)
+9. [👍 Buenas Prácticas Extras](#--9-buenas-prácticas-extras)
 
 ### 🛠 Herramientas y Recursos
 
-10. [🔧 Herramientas Útiles](#🔧-10-herramientas-útiles)
-11. [📚 Recursos de Aprendizaje](#📚-11-recursos-de-aprendizaje)
+10. [🔧 Herramientas Útiles](#--10-herramientas-útiles)
+11. [📚 Recursos de Aprendizaje](#--11-recursos-de-aprendizaje)
 
 ---
 
