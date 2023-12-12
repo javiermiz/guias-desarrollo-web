@@ -43,7 +43,7 @@
 
 ---
 
-### 2. 📝 Estructura de un Archivo
+### 📝 2. Estructura de un Archivo
 
 #### 🛠 Formato Básico
 
